@@ -1,0 +1,21 @@
+{
+    "name": "webonerds/yii2-ad-banners",
+    "description": "banners will be added automatic into used place",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," banner"," poster","ad banner"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irfan Attar",
+            "email": "irfanattar2255@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "webonerds\\adbanners\\": ""
+        }
+    }
+}
